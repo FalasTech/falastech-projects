@@ -1,24 +1,26 @@
-# FalasTech Projects
+# 🇵🇸✨ FalasTech Projects
 
-This repository showcases open-source tech projects supporting Palestine.  
-We aim to build, promote, and maintain tools that empower the Palestinian cause through technology.
-
----
-
-## Featured Projects
-
-| Project Name | Description | Link |
-|--------------|-------------|------|
-| Project 1 | Brief description | [GitHub](#) |
-| Project 2 | Brief description | [GitHub](#) |
-
-Want to submit your project? Check the [CONTRIBUTING.md](CONTRIBUTING.md).
+This repository showcases **open-source tech projects** supporting **Palestine**.  
+We aim to **build**, **promote**, and **maintain tools** that empower the Palestinian cause through technology. 💻🌍✊
 
 ---
 
-## License
-[CC BY 4.0](LICENSE)
+## 🚀 Featured Projects
+
+| 📁 **Project Name** | 🧾 **Description**       | 🔗 **Link**     |
+|---------------------|--------------------------|-----------------|
+| 🛠️ Coming Soon         | Coming Soon         | [GitHub](#)     |
+| ⚙️ Coming Soon         | Coming Soon         | [GitHub](#)     |
+
+💡 Want to submit your project? Check the [CONTRIBUTING.md](CONTRIBUTING.md)!
 
 ---
 
-Built by the community | Powered by FalasTech
+## 📄 License
+
+This repository is licensed under:  
+🔗 [Creative Commons BY 4.0](LICENSE)
+
+---
+
+🌱 Built by the community | ✊ Powered by **FalasTech**
