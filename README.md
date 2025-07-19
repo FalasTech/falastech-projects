@@ -13,7 +13,7 @@ We aim to **build**, **promote**, and **maintain tools** that empower the Palest
 | 📁 **Project Name** | 🧾 **Description**       | 🔗 **Link**     |
 |---------------------|--------------------------|-----------------|
 | 🌐 falastech.org      | Main website and home of the FalasTech community   | [🌐 falastech.org](https://falastech.org/) / [📦 Repo](https://github.com/FalasTech/falastech-website) |
-| 🖼️ Palestine Profile Pic Maker | Add a Palestinian flag overlay to your profile pic | [🔗 Live](https://ppm.falastech.org) / [📦 Repo](https://github.com/FalasTech/falastech-ppm) |
+| 🖼️ Palestine Profile Pic Maker | Add a Palestinian flag overlay to your profile pic | [🔗 ppm.falastech.org](https://ppm.falastech.org) / [📦 Repo](https://github.com/FalasTech/falastech-ppm) |
 
 💡 Want to submit your project? Check the [CONTRIBUTING.md](CONTRIBUTING.md)!
 
